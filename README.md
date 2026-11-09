@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+
 ## 👋 About Me<br><br>🚀 I'm currently working on **AI-powered solutions, Generative AI applications, and intelligent automation** at Oracle.<br><br>🤝 I'm looking to collaborate on **GenAI, LLM-based applications, RAG systems, and backend development**.<br><br>🛠️ I'm looking for help with **building scalable AI systems, system design, and exploring production-ready AI architectures**.<br><br>🌱 I'm currently learning **Advanced Python, Data Structures & Algorithms, System Design, RAG, AI Agents, and Cloud Architecture**.<br><br>💬 Ask me about **Python, Generative AI, LangChain, RAG,  and Software Development**.<br><br>⚡ Fun fact: I enjoy turning complex ideas into practical solutions and experimenting with new technologies to build things that make a difference.
 
 
